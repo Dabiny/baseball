@@ -1,0 +1,13 @@
+.logs {
+  display: flex;
+  justify-content: center;
+
+  width: 500px;
+  background-color: aliceblue;
+
+  margin: 3% auto;
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+}

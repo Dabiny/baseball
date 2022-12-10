@@ -1,0 +1,23 @@
+.input-section {
+  display: flex;
+  margin: 0 auto;
+
+  input {
+    width: 60px;
+    padding-left: 15px;
+    font-size: 20px;
+    font-weight: 700;
+  }
+
+  button {
+    border: none;
+    cursor: pointer;
+
+    height: 50px;
+    background: rgb(77, 155, 245);
+    border-radius: 10px;
+    font-size: 20px;
+
+    margin-left: 10px;
+  }
+}
